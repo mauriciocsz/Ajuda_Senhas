@@ -1,0 +1,9 @@
+C:\Users\Mauricio\source\repos\AjudaSenha\AjudaSenha\bin\Debug\AjudaSenha.exe.config
+C:\Users\Mauricio\source\repos\AjudaSenha\AjudaSenha\bin\Debug\AjudaSenha.exe
+C:\Users\Mauricio\source\repos\AjudaSenha\AjudaSenha\bin\Debug\AjudaSenha.pdb
+C:\Users\Mauricio\source\repos\AjudaSenha\AjudaSenha\obj\Debug\AjudaSenha.csprojAssemblyReference.cache
+C:\Users\Mauricio\source\repos\AjudaSenha\AjudaSenha\obj\Debug\AjudaSenha.Form1.resources
+C:\Users\Mauricio\source\repos\AjudaSenha\AjudaSenha\obj\Debug\AjudaSenha.Properties.Resources.resources
+C:\Users\Mauricio\source\repos\AjudaSenha\AjudaSenha\obj\Debug\AjudaSenha.csproj.GenerateResource.cache
+C:\Users\Mauricio\source\repos\AjudaSenha\AjudaSenha\obj\Debug\AjudaSenha.exe
+C:\Users\Mauricio\source\repos\AjudaSenha\AjudaSenha\obj\Debug\AjudaSenha.pdb

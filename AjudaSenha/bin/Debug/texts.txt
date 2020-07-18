@@ -1,0 +1,38 @@
+Seja bem vindo ao Ajuda senhas!
+O propósito deste programa é ajudar você, usuário, a entender a necessidade da segurança de senhas.
+Você já deve ter se perguntado: "Por que eu preciso de uma letra maiúscula ou um número na minha senha?"
+Iremos então, responder essas perguntas ao longo da utilização do programa.
+Para iniciar, digite uma senha no campo branco do programa, e clique no botão para avaliar.
+OBS: Esse programa não é conectado a nenhum banco de dados, como evidenciado pelo código, que pode ser visto por qualquer um. Então não se precoupe em colocar uma senha utilizada em algum site!
+Agora que você introduziu uma senha, você verá os ícones acima atualizarem dependendo da senha que colocou.
+Sempre que você tornar um ícone "verde", será explicado seu propósito numa senha, tente descobrir todos e boa sorte!
+Parabéns! Você desbloqueou o primeiro ícone, ele se refere à lista de senhas "RockYou".
+Essa lista contém 14 milhões de senhas, extraídas de vários sites que tiveram as senhas de usuários comprometidas.
+Felizmente, sua senha não estava dentro dessa lista, o que é ótimo, mostrando que sua senha não é "comum".
+Muito cuidado! Essa senha que acabou de ser introduzida está na lista "RockYou"
+Essa lista contém 14 milhões de senhas, extraídas de vários sites que tiveram as senhas de usuários comprometidas.
+Como sua senha está nessa lista, quer dizer que alguma de suas contas foi comprometida em algum ponto ou é uma senha muito comum.
+Tente modificar sua senha de alguma forma até que ela esteja fora da lista RockYou, pois ter sua senha na lista é algo extremamenete perigoso.
+Você desbloqueou o ícone de letra maiúscula, que como o nome diz, se refere a presença de uma letra maíscula na senha.
+De acordo com a lista RockYou, apenas por volta de 10% das senhas contém uma letra maíuscula.
+Sabendo disso, é bem válido que você adicione uma em sua senha, para ser um diferencial, dificultando um cracking da sua senha.
+Você desbloqueou o ícone de "número", que se refere a ter um ou mais números na senha.
+Na lista RockYou, 60% das senhas apresentam números, o que é uma alta quantidade, mas ainda assim não suficiente.
+Adicionando qualquer número, você dificulta a sua senha cada vez mais, apesar de ser razoavelmente comum nas senhas em geral.
+Você desbloqueou o ícone "Caracteres Especiais", representado por ter um caractere especial em suas senha.
+A quantidade de especial chars na lista RockYou é pouco acima de 8%, sendo a menor quantidade de caracteres específicos de toda lista.
+Como eles são tão raros, é uma boa ideia adicionar um caractere especial em suas senhas daqui em diante.
+Você desbloqueou o ícone "10 caracteres ou mais".
+A lista RockYou nos mostra que a quantidade de senhas com 10+ caracteres é por volta de 30%
+Leve em consideração que, quanto mais caracteres sua senha ter, mais difícil ela será de ser descoberta.
+Então sempre que possível, adicione a maior quantidade de caracteres que puder para a melhor segurança de sua senha.
+Parabéns!Sua senha atende a todos os quesitos dos ícones!
+De uma análise superficial, essa senha é segura para ser utilizada em suas contas!
+Mas fique atento, apesar de estar seguro na senha, é preciso que você tome cuidado em quais sites se cadastra ou utiliza sua senha.
+É o ideal que você use várias senhas para sites diferentes, com o intuito de, caso essa senha seja exposta, nenhuma outra conta será.
+Por fim, espero que esse simples programa o tenha ajudado à compreender a necessidade de ter sua senha com diversos caracteres.
+Atualmente, nossas vidas online são quase tão importantes quanto as nossas vidas fora da internet, por isso precisamos ter muito cuidado com nossos dados.
+Muito obrigado por utilizar este programa, e não se esqueça de tomar todas precauções possíveis online!
+Muito cuidado! A senha que acabou de introduzir está em uma lista de senhas que já foram expostas!
+Se você utiliza essa senha em qualquer site, recomendamos que troque sua senha imediatamente, devido ao grande risco.
+Tente novamente inserir uma senha no campo e repita o processo até que encontre uma senha não presente na lista.
